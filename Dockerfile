@@ -1,1 +1,1 @@
-FROM tomcat:8.5.34-jre8
+FROM gcr.io/kubernetes-helm/tiller:v2.8.1
